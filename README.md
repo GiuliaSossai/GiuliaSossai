@@ -29,9 +29,9 @@
 
 ## 🏆 Github Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiuliaSossai&theme=dark" width="50%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=GiuliaSossai&theme=dark" width="40%" align="right" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaSossai&layout=compact&theme=dark" width="40%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaSossai&layout=compact&theme=dark" width="50%" >
 
 <br>
 
