@@ -1,12 +1,9 @@
-
-
-
-
+![tree image](https://i.stack.imgur.com/BhAwr.jpg)
 
 
 ### Hi everyone 👋
 
-Here it's me, a junior full-stack web developer from Italy!
+# Here it's me, a junior full-stack web developer from Italy!
 
 🔭 Currently working on my Portfolio and Boolean final project
 
