@@ -9,6 +9,8 @@
 
 🌱 Currently learning ReactJs and improving my past skills
 
+🥅 My goal is non-stop learning!
+
 👯 I’m looking to collaborate with stimulating work environments
 
 &hearts; In love with nature, animals and yoga!
