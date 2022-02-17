@@ -45,7 +45,7 @@
   <a target="blank"> </a>
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="60" width="60">
   <a target="blank"> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="60">
   <a target="blank"> </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
   <a target="blank"> </a>
