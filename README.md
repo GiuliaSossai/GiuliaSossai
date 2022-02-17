@@ -31,9 +31,5 @@
 | <a href="https://github.com/giuliasossai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliasossai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Giulia's github stats" /></a> | <a href="https://github.com/giuliasossai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasossai&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiuliaSossai&theme=dark" width="40%" align="right" >
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaSossai&layout=compact&theme=dark" width="50%" >
-
 <br>
 
