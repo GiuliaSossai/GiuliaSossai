@@ -23,10 +23,29 @@
 
 <div align="center">
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="60" width="60">
+  <a target="blank"> </a>
+
+ <br>
  
- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="60" width="60">
+  <a target="blank"> </a>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+  <a target="blank"> </a>
  
 </div>
 
