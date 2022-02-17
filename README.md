@@ -29,20 +29,21 @@
   <a target="blank"> </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
   <a target="blank"> </a>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="60" width="60">
   <a target="blank"> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
   <a target="blank"> </a>
 
  <br>
  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="60" width="60">
+  <a target="blank"> </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="60" width="60">
   <a target="blank"> </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" width="60">
   <a target="blank"> </a>
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="60" width="60">
-  <a target="blank"> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="60" width="60">
   <a target="blank"> </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
   <a target="blank"> </a>
