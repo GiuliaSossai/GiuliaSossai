@@ -1,8 +1,8 @@
 ![tree image](https://i.stack.imgur.com/BhAwr.jpg)
 
-<div align="center">
+
 # Hi everyone 👋
-</div>
+
 
 ## Here it's me, a junior full-stack web developer from Italy!
 
